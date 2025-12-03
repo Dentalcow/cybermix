@@ -7,4 +7,4 @@ https://www.aliexpress.com/item/1005006349857176.html
 
 https://www.aliexpress.com/item/1005005193716172.html
 
-https://www.digikey.com.au/en/products/detail/bourns-inc/PTA6043-2010CIB103/3781224
+https://www.digikey.com.au/en/products/detail/bourns-inc/PTA6043-2015CPB103/3781230
