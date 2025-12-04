@@ -2,7 +2,7 @@
 An application volume mixer with a vague cyberpunk theme
 
 
-### Bill of Materials (Quantity may be inaccurate due to batch pricing on Aliexpress; See notes)
+### Bill of Materials for electronics (Quantity may be inaccurate due to batch pricing on Aliexpress; See notes)
 
 | Item                                   | Cost | Req Quantity | Total Cost | Link                                                                                                    | Notes                                             |
 |----------------------------------------|------|--------------|------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------|
@@ -16,3 +16,8 @@ An application volume mixer with a vague cyberpunk theme
 | MX style key switches                  | 4.76 | 1            | 4.76       | https://www.aliexpress.com/item/1005010149555052.html                                                   | You need 2; aliexpress sells in batches of 10     |
 | 1x40 pin header                         | 1.44 | 1            | 1.44       | https://www.aliexpress.com/item/1005007385580884.html                                                   | Break into 16 pin and 4 pin headers               |
 | Total                                  |      |              | 63.34      |                                                                                                         |                                                   |
+
+### Bill of Materials for hardware
+
+https://www.aliexpress.com/item/1005009646586344.html
+https://www.aliexpress.com/item/1005004527586307.html
