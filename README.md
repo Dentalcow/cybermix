@@ -21,5 +21,9 @@ An application volume mixer with a vague cyberpunk theme
 
 ### Bill of Materials for hardware
 
-https://www.aliexpress.com/item/1005009646586344.html
-https://www.aliexpress.com/item/1005004527586307.html
+| Item               | Cost | Req Quantity | Total Cost | Link                                                                                  | Notes                                                |
+|--------------------|------|--------------|------------|---------------------------------------------------------------------------------------|------------------------------------------------------|
+| M3 Heatset Inserts | 6.89 | 1            | 6.89       | https://www.aliexpress.com/item/1005009646586344.html                                | You need 8 but they are sold in sets of 100          |
+| M3 Screws          | 1.32 | 1            | 1.32       | https://www.aliexpress.com/item/1005004527586307.html                                | You need 8 but they are sold in sets of 40           |
+| USB C 1m Cable     | 2.79 | 1            | 2.79       | https://www.aliexpress.com/item/1005007431063094.html                                |                                                      |
+| Total              |      |              | 11         |                                                                                       |                                                      |
