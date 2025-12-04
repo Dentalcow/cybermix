@@ -1,4 +1,4 @@
-# cybermix
+# Cybermix
 An application volume mixer with a vague cyberpunk theme
 
 ### Render
