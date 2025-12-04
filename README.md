@@ -1,6 +1,8 @@
 # cybermix
 An application volume mixer with a vague cyberpunk theme
 
+### Render
+<img width="1600" height="1200" alt="cybermix_2025-Dec-04_08-57-24AM-000_CustomizedView9369190489" src="https://github.com/user-attachments/assets/1dbcc730-5f03-44b3-9509-0d5502171801" />
 
 ### Bill of Materials for electronics (Quantity may be inaccurate due to batch pricing on Aliexpress; See notes)
 
