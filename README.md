@@ -20,7 +20,7 @@ A custom PCB with hidden messaging.
 
 | Item                                   | Cost | Req Quantity | Total Cost | Link                                                                                                    | Notes                                             |
 |----------------------------------------|------|--------------|------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------|
-| Custom PCB                             | 36.8 | 1            | 36.8       | Any pcb manufacturer (I used JLCPCB)                                                                    |                                                   |
+| Custom PCB                             | 13.6 | 1            | 13.6       | Any pcb manufacturer (I used JLCPCB)                                                                    |                                                   |
 | Seeed Studio RP2040 XIAO               | 4.68 | 1            | 4.68       | https://www.digikey.com.au/en/products/detail/seeed-technology-co-ltd/102010428/14672129               |                                                   |
 | ADS1115                                | 2.17 | 1            | 2.17       | https://www.aliexpress.com/item/1005006349857176.html                                                   | You need 10; aliexpress sells in batches of 20    |
 | SK6812 Mini-e RGB                      | 2.07 | 1            | 2.07       | https://www.aliexpress.com/item/1005005193716172.html                                                   |                                                   |
@@ -29,7 +29,7 @@ A custom PCB with hidden messaging.
 | TCA9848A                                | 2.03 | 1            | 2.03       | https://www.aliexpress.com/item/1005004996004241.html                                                   |                                                   |
 | MX style key switches                  | 4.76 | 1            | 4.76       | https://www.aliexpress.com/item/1005010149555052.html                                                   | You need 2; aliexpress sells in batches of 10     |
 | 1x40 pin header                         | 1.44 | 1            | 1.44       | https://www.aliexpress.com/item/1005007385580884.html                                                   | Break into 16 pin and 4 pin headers               |
-| Total                                  |      |              | 63.34      |                                                                                                         |                                                   |
+| Total                                  |      |              | 40.41      |                                                                                                         |                                                   |
 
 ### Bill of Materials for hardware
 
