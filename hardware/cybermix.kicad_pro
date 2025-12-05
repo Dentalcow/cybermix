@@ -486,7 +486,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber/",
+      "plot": "gerber2layer/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "cybermix.stl",
