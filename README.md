@@ -1,7 +1,7 @@
 # Cybermix
 An application volume mixer with a vague cyberpunk theme. 5 faders, 5 screens, and a desktop companion app. It supports pages and any app that you what to control the volume of in WINDOWS (as of now).
 
-<img width="1000" height="600" alt="cybermix_2025-Dec-04_08-57-24AM-000_CustomizedView9369190489" src="https://github.com/user-attachments/assets/1dbcc730-5f03-44b3-9509-0d5502171801" />
+<img width="1024" height="768" alt="cybermix_2025-Dec-04_08-57-24AM-000_CustomizedView9369190489" src="https://github.com/user-attachments/assets/1dbcc730-5f03-44b3-9509-0d5502171801" />
 
 ### Concept
 The concept is a physical hardware version of the windows volume mixer, but reimagined with a cyberpunk look and more customisation.
