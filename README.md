@@ -16,6 +16,11 @@ A custom PCB with hidden messaging.
 
 <img width="920" height="551" alt="image" src="https://github.com/user-attachments/assets/d8799b1d-761b-40db-badd-fa80d0a5503d" />
 
+
+Schematic:
+
+<img width="1269" height="661" alt="image" src="https://github.com/user-attachments/assets/4c9608c3-9ced-42cc-aaeb-20454a0fba9e" />
+
 ### Bill of Materials for electronics (Quantity may be inaccurate due to batch pricing on Aliexpress; See notes)
 
 | Item                                   | Cost | Req Quantity | Total Cost | Link                                                                                                    | Notes                                             |
